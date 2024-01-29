@@ -6,6 +6,8 @@ import About from '@/Components/About';
 import Services from '@/Components/Services';
 import Skils from '@/Components/Skils';
 import Projects from '@/Components/Projects';
+import Testimonial from '@/Components/Testimonial';
+import Blog from '@/Components/Blog';
 
 
 const HomePage = () => {
@@ -31,6 +33,10 @@ const HomePage = () => {
          <Skils/>
          {/* Projects */}
          <Projects/>
+         {/* Reviews Testimonial */}
+         <Testimonial/>
+         {/* Blogs */}
+         <Blog/>
         </div>
       </div>
     </div>

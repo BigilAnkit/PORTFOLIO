@@ -37,6 +37,7 @@ const Projects = () => {
                     <Image src="/images/p2.jpg" alt='portfolio' layout='fill' className='object-contain'/>
                     </div>                
             </div>
+            
         </div>
     </div>
   )
